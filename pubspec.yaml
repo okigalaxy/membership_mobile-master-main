@@ -1,0 +1,41 @@
+name: membership
+description: Membership ABC Pasko
+
+version: 1.0.0+6
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  get: ^4.6.1
+  google_fonts: ^2.3.1
+  flutter_svg: ^1.0.3
+  get_storage: ^2.0.3
+  intl: ^0.17.0
+  qr_flutter: ^4.0.0
+  url_launcher: ^6.1.0
+  shared_preferences: ^2.0.15
+  http: ^0.13.4
+  dio: ^4.0.4
+  open_mail_app: ^0.4.5
+  syncfusion_flutter_barcodes: ^18.1.42-beta
+  barcode_flutter: ^1.1.2
+  cached_network_image: ^3.2.1
+  flutter_image_slideshow: ^0.1.4
+  scaled_list: ^2.0.0
+  carousel_slider: ^4.1.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^1.0.0
+
+flutter:
+  assets:
+    - assets/images/
+    - assets/icons/
+
+  uses-material-design: true

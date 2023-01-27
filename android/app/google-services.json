@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "612365357921",
+    "project_id": "membership-ab28c",
+    "storage_bucket": "membership-ab28c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:612365357921:android:5d0846edea8b66ac04eb20",
+        "android_client_info": {
+          "package_name": "com.membership.abc.pasko"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "612365357921-s93rd26qa9i0dooe5b120bkp43tk5jnp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8G2sfjU1oEUwzUdB0nwHCKEmne1-PmuA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "612365357921-s93rd26qa9i0dooe5b120bkp43tk5jnp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

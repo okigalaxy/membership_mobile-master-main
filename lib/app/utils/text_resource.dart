@@ -1,0 +1,32 @@
+class TextResource {
+  static const String poweredBy = "Powered By";
+  static const String email = "Email";
+  static const String password = "Password";
+  static const String rememberMe = "Ingat saya";
+  static const String login = "Masuk";
+  static const String forgotPassword = "Forgot Password";
+  static const String ptAbc = "PT. Abadi Bintang Cemerlang Berlian © 2022";
+  static const String logout = "Keluar";
+  static const String phone = "Phone";
+  static const String hallo = "Halo, ";
+  static const String noMember = "No Member : ";
+  static const String memberSince = "Member sejak";
+  static const String lifetimeMembership = "Lifetime Membership";
+  static const String pointRewards = "Poin";
+  static const String followUs = "Ikuti Kami";
+  static const String history = "History";
+  static const String purchase = "Riwayat Pembelian";
+  static const String contactUs = "Hubungi Kami";
+  static const String rewardList = "Daftar Hadiah";
+  static const String reward = "Reward Point";
+  static const String reedem = "Reedem Point";
+  static const String download = "Download";
+  static const String detail = "Detail Riwayat Pembelian";
+  static const String home = "Beranda";
+  static const String filter = "Filter";
+  static const String items = "Barang";
+  static const String pointRewarded = "Point didapat";
+  static const String saleNo = "Sale no.";
+  static const String emailRequired = "Email Required";
+  static const String passwordRequired = "Password Required";
+}
